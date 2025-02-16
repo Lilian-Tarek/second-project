@@ -1,2 +1,2 @@
 # second-project
-https://liliantarek.github.io/second-project/
+https://lilian-tarek.github.io/second-project/
